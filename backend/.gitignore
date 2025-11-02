@@ -11,3 +11,7 @@ wheels/
 
 # dataset
 data/
+dataset/
+
+# models
+models/
